@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Коллекции. Динамические структуры данных./1.0.0": {
+        "runtime": {
+          "Коллекции. Динамические структуры данных..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Коллекции. Динамические структуры данных./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
